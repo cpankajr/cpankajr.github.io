@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Courses
-tags: [research, satwik, kottur, cmu, graduate, iitb, courses]
-modified: 2014-08-08T20:53:07.573882-04:00
+tags: [research, pankaj, chauhan, sfit, under graduate, courses]
+modified: 2017-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
