@@ -13,18 +13,3 @@ I am a Final year student at [EXTC](https://www.sfitengg.org/EXTC.php) departmen
 My interests are in the intersection of Speech processing and Natural language processing, and broadly, to solve multimodal AI problems using machine learning techniques.. 
 
 ----
-
-
-<h3 align="center">Affiliations</h3>
-<figure align="center" class="affils">
-    <a href="http://www.cmu.edu/"><img src="/images/cmu-logo.png"></a>
-    <a href="http://www.iitb.ac.in/"><img src="/images/iitb-logo.jpeg"></a>
-    <a href="http://viterbi.usc.edu/"><img src="/images/viterbi-logo.jpg"></a>
-    <a href="https://www.snapchat.com/"><img src="/images/snapchat-logo.png"></a>
-</figure>
-<figure align="center" class="affils">
-    <figcaption>Carnegie Mellon University<br>2014-present</figcaption>
-    <figcaption>IIT Bombay<br>2010-2014</figcaption>
-    <figcaption>Viterbi School, USC<br>Summer 2013</figcaption>
-    <figcaption>Snapchat Inc.<br>Summer 2016</figcaption>
-</figure>
