@@ -2,7 +2,7 @@
 
 title:            
 locale:           en_US
-url: https://satwikkottur.github.io
+url: https://cpankajr.github.io
 # Jekyll configuration
 
 permalink:   /:categories/:title/
@@ -24,16 +24,16 @@ kramdown:
 
 # Site owner
 owner:
-  name: Satwik Kottur
+  name: Pankaj Chauhan
   avatar: bio-photo-1.jpg
-  position: Graduate Student
-  school: Carnegie Mellon University
-  place: Pittsburgh, PA.
-  bio: "Graduate student<br/>ECE Department&#13;&#10;Carnegie Mellon University&#13;&#10;Pittsburgh, PA"
-  email: satwik27@gmail.com
+  position: Under-Graduate Student
+  school: St. Francis Institute of Technology
+  place: Mumbai, IN.
+  bio: "Under-Graduate student<br/>EXTC Department&#13;&#10;St. Francis Institute of Technology&#13;&#10;Mumbai"
+  email: cpankajr@gmail.com
   disqus-shortname:
-  twitter: #username
-  facebook: satwik27 #username
+  twitter: cpankajr #username
+  facebook: cpankajr #username
   google:
     plus: 114354609186386046762 #username
     analytics:
@@ -41,11 +41,11 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: satwikkottur
+  github: cpankajr
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: satwik-kottur-6898b634 #username
+  linkedin: cpankajr #username
   xing: #username
-  instagram: #username
+  instagram: cpankajr #username
   lastfm: #username
   tumblr: #username
   pinterest: #username
