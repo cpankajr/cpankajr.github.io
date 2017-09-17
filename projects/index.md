@@ -54,4 +54,4 @@ The Line follower robot is a mobile machine that can detect and follow the line 
 -----
   
 
-[Here](/projects/course/) is a list of all the courses I have taken, both during undergraduate studies.
+[Here](/projects/courses/) is a list of all the courses I have taken, both during undergraduate studies.
