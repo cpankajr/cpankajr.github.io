@@ -7,7 +7,7 @@ comments: false
 ---
 
 My interests broadly lie in the fields of Speech Processing, machine learning and Signal Processing.
-I recently got interested in understanding emotion from speech and languague by using ,machine learning learning tools.
+I recently got interested in understanding emotion from speech by using machine learning tools.
 
 
 ### Projects
