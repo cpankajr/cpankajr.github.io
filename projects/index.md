@@ -41,7 +41,7 @@ IC sends high/low-frequency signals to a piezo buzzer based on the value of resi
 pressed by the user thus producing the sound of the note. 
 - Introduced potentiometers to obtain custom octave frequencies.  
 [<button type="button" class="btn btn-info">Report</button>](/reports/mini-project-1.pdf){:target="_blank"}
-[<button type="button" class="btn btn-danger">Code</button>](https://github.com/cpankajr/p1)  
+[<button type="button" class="btn btn-danger">Code</button>](https://github.com/cpankajr/Speech-Emotion-Recognition-using-DTW)  
 
 * **Line Follower Robot**  
 *National Robotic Championship Organized by ARK tech in association with IIT Madras, Mumbai, India*  
