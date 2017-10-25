@@ -31,7 +31,7 @@ The purpose of speech emotion recognition system is to automatically classify sp
 - Developed a trained model for detecting emotion using DTW classifier
 - Obtained accuracy of 68.57%  
 [<button type="button" class="btn btn-info">Report</button>](/reports/mini-project-2.pdf){:target="_blank"}
-[<button type="button" class="btn btn-danger">Code</button>](https://github.com/cpankajr/p2)  
+[<button type="button" class="btn btn-danger">Code</button>](https://github.com/cpankajr/Speech-Emotion-Recognition-using-DTW  
 
 * **Electronic Piano**  
 *Mini Project I, July 2016 - Oct 2016*  
@@ -41,7 +41,7 @@ IC sends high/low-frequency signals to a piezo buzzer based on the value of resi
 pressed by the user thus producing the sound of the note. 
 - Introduced potentiometers to obtain custom octave frequencies.  
 [<button type="button" class="btn btn-info">Report</button>](/reports/mini-project-1.pdf){:target="_blank"}
-[<button type="button" class="btn btn-danger">Code</button>](https://github.com/cpankajr/Speech-Emotion-Recognition-using-DTW)  
+[<button type="button" class="btn btn-danger">Code</button>](https://github.com/cpankajr/p1)  
 
 * **Line Follower Robot**  
 *National Robotic Championship Organized by ARK tech in association with IIT Madras, Mumbai, India*  
