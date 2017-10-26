@@ -31,7 +31,7 @@ The purpose of speech emotion recognition system is to automatically classify sp
 - Developed a trained model for detecting emotion using DTW classifier
 - Obtained accuracy of 68.57%  
 [<button type="button" class="btn btn-info">Report</button>](/reports/mini-project-2.pdf){:target="_blank"}
-[<button type="button" class="btn btn-danger">Code</button>](https://github.com/cpankajr/Speech-Emotion-Recognition-using-DTW  
+[<button type="button" class="btn btn-danger">Code</button>](https://github.com/cpankajr/Speech-Emotion-Recognition-using-DTW)  
 
 * **Electronic Piano**  
 *Mini Project I, July 2016 - Oct 2016*  
