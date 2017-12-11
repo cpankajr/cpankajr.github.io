@@ -24,6 +24,8 @@ The main aim of the project is to decrease computation time of Emotion Detection
 - Feature Reduced from 156 to 80
 - Developed a trained model for these selected features using SVM classifier.
 - It yields almost same accuracy after deduction in features
+[<button type="button" class="btn btn-info">PPT</button>](/reports/be proj present.pdf){:target="_blank"}
+[<button type="button" class="btn btn-danger">Code</button>](https://github.com/cpankajr/Harmony-Search-for-Feature-Selection-in-ASER)  
 
 * **Speech Emotion Recognition using Dynamic Time Warping**  
 *Mini Project II, Jan 2017 - Apr 2017*    
@@ -32,7 +34,7 @@ The purpose of speech emotion recognition system is to automatically classify sp
 - Designed and built a speech emotion recognition system using SAVEE database on MATLAB
 - Developed a trained model for detecting emotion using DTW classifier
 - Obtained accuracy of 68.57%  
-[<button type="button" class="btn btn-info">Report</button>](https://github.com/cpankajr/Speech-Emotion-Recognition-using-DTW/MP2_mfcc-MiniProject.docx.pdf){:target="_blank"}
+[<button type="button" class="btn btn-info">Report</button>](/reports/Mini-Project-2.pdf){:target="_blank"}
 [<button type="button" class="btn btn-danger">Code</button>](https://github.com/cpankajr/Speech-Emotion-Recognition-using-DTW)  
 
 * **Electronic Piano**  
