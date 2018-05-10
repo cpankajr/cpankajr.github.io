@@ -11,3 +11,4 @@ Hi!
 I am a Final year student at [EXTC](https://www.sfitengg.org/EXTC.php) department, [St. Francis Institute of Technology](https://www.sfitengg.org). Currently, I am working on my final year project under a guidance of [Asst.Prof. Kevin D'souza](https://www.sfitengg.org/staff/FP_KevinD_EXTC_2016.pdf). 
 
 My interests are in Affective Computing (mainly on Speech emotion Recognition) and Speech processing, and broadly, to solve multimodal AI problems using machine learning techniques.. 
+[![HitCount](http://hits.dwyl.io/cpankajr/cpankajr.github.io.svg)](http://hits.dwyl.io/cpankajr/cpankajr.github.io)
