@@ -16,14 +16,11 @@ I recently got interested in understanding emotion from speech by using machine 
 *Major Project, Ongoing*  
 Guide: Asst. Prof. Kevin D'souza  
 **Details:**  
-Feature selection is a significant aspect of speech emotion recognition system.
-How to select a small subset out of the thousands of speech data is important for accurate classification of speech emotion.
-The main aim of the project is to decrease computation time of Emotion Detection Mechanism by using less possible features while retaining significant accuracy.
-- Extracted both MFCC features and Fourier parameters from EMODB database on MATLAB
-- Fed these features to Harmony search Algorithm to select more significant features.
-- Feature Reduced from 156 to 80
-- Developed a trained model for these selected features using SVM classifier.
-- It yields almost same accuracy after deduction in features
+Selecting significant features out of large dimensions of the original speech features is an integral part of accurate speech emotion recognition. In this project, we proposed an automatic speech emotion classification system based on a harmony search algorithm as a feature selection strategy. 
+-First, an audio signal is divided into small frames of 20 ms and MFCC features are extracted from each frame to generate an original feature set. 
+-We employed Harmony search to derive local feature subsets for each pair of emotions. Selected subsets and original sets evaluated based on 10 fold cross-validation accuracy. 
+-Finally, each local feature subset is fed to corresponding one-against-one SVM classifier, and the majority voting method is used to classify each emotional recording. 
+-Experiments are conducted on the EMODB and IITKGP-SEHSC databases, demonstrating that size of each subset reduced to 50% of the size of original feature set, however, the accuracy remained almost same as original ones.
 [<button type="button" class="btn btn-info">PPT</button>](/reports/be-proj-present.pdf)
 [<button type="button" class="btn btn-danger">Code</button>](https://github.com/cpankajr/Harmony-Search-for-Feature-Selection-in-ASER)  
 
