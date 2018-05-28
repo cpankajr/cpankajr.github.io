@@ -66,6 +66,7 @@ The Line follower robot is a mobile machine that can detect and follow the line 
   
 
 [Here](/projects/courses) is a list of all the courses I have taken during undergraduate studies.
+
 -----
 Last Update: 28 May 2018
 
