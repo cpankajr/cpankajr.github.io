@@ -13,6 +13,8 @@ I have recently completed my bachelor degree in EXTC engineering from [EXTC](htt
 My interests are in Affective Computing (mainly on Speech emotion Recognition) and Speech processing, and broadly, to solve multimodal AI problems using machine learning techniques.. 
 
 For any query related to my projects or want just discussion on emotion recognition. you can contact [me](https://cpankajr.github.io/contact/)
+
+
 Last Update: 28 May 2018
 
 -----
