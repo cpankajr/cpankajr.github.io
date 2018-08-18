@@ -20,5 +20,5 @@ For any query related to my projects or want just discussion on emotion recognit
 Last Update: 28 May 2018
 
 -----
-<a href="https://clustrmaps.com/site/1abx1" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=UGLgKIbPbweGZ711ZhxAGWsKog6GmAFJu2uHfxxCKEI&cl=ffffff"></a>
+<a href='https://clustrmaps.com/site/1abx1'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=200&t=n&d=UGLgKIbPbweGZ711ZhxAGWsKog6GmAFJu2uHfxxCKEI'/></a>
 
