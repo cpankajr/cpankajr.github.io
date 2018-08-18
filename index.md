@@ -20,5 +20,5 @@ For any query related to my projects or want just discussion on emotion recognit
 Last Update: 28 May 2018
 
 -----
-
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=UGLgKIbPbweGZ711ZhxAGWsKog6GmAFJu2uHfxxCKEI&cl=ffffff&w=a"></script>
 
